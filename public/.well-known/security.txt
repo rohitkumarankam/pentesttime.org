@@ -1,1 +1,0 @@
-This is a JAM stack site it doesn't require security programme.
